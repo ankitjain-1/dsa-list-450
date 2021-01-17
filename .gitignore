@@ -1,0 +1,6 @@
+# for removing C++ executable
+*
+!*.*
+!*/
+
+.vscode
